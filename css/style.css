@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #392b58;
+  background-color: #645e9d;
 }
 
 h1,
@@ -13,12 +13,12 @@ h2,
 h3,
 h4,
 h5 {
-  color: #fff;
+  color: #2d0320;
 }
 
 p,
 label {
-  color: #99d5c9;
+  color: #47366d;
 }
 
 input {
@@ -30,6 +30,32 @@ input {
 input[type="text"],
 input[type="number"],
 input[type="date"],
-input[type="files"] {
+input[type="files"],
+textarea {
   width: 400px;
+}
+
+textarea {
+  padding: 10px 5px;
+}
+
+/* page header  */
+.header {
+  height: 160px;
+  padding: 20px;
+  background-color: #392b58;
+}
+
+.header h3 {
+  margin-top: 0;
+  color: #fff;
+}
+
+/* form container */
+.form-container {
+  background-color: #fdfdfd;
+  width: 60%;
+  margin: 0 auto;
+  position: relative;
+  top: -60px;
 }
