@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
 }
 
 body {
@@ -99,19 +100,19 @@ textarea {
 
 .optional-box {
   display: inline-block;
-  margin:0 30px 30px 0;
+  margin: 0 30px 30px 0;
 }
 
 .optional-list li {
- list-style: none;
- margin-bottom: 5px;
+  list-style: none;
+  margin-bottom: 5px;
 }
 
 .box-input {
   margin-bottom: 15px;
 }
 
-.btn-submit {
+.btn .btn-submit {
   background-color: #665478;
   color: #fff;
   border: 2px solid transparent;
