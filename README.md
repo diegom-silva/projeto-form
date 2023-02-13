@@ -12,4 +12,6 @@ Projeto feito para colocar em prática em o que foi aprendido com as tags para f
 
 
 
-![preview form](https://github.com/diegom-silva/projeto_formulario/blob/main/assets/formul%C3%A1rio.jpg?raw=true)
+<div align="center">
+<img src="https://github.com/diegom-silva/projeto_formulario/blob/main/assets/formul%C3%A1rio.jpg?raw=true" width="700px">
+</div>
